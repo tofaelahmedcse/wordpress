@@ -1,0 +1,28 @@
+2018-11-26T06:45:40+00:00 CRITICAL Call to undefined function have_post() in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\search.php on line 1235
+
+2018-11-26T07:06:18+00:00 CRITICAL Call to undefined function sidebar() in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\left-sidebar.php on line 19
+
+2018-11-26T07:06:50+00:00 CRITICAL Call to undefined function sidebar() in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\left-sidebar.php on line 19
+
+2018-11-26T18:03:35+00:00 CRITICAL syntax error, unexpected '$loop' (T_VARIABLE) in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\left-sidebar.php on line 30
+
+2018-11-26T18:03:48+00:00 CRITICAL Call to undefined function WP_Query() in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\left-sidebar.php on line 30
+
+2018-11-26T18:04:08+00:00 CRITICAL Call to a member function get_price_html() on null in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\left-sidebar.php on line 47
+
+2018-11-26T18:06:44+00:00 CRITICAL Call to a member function get_price_html() on null in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\left-sidebar.php on line 45
+
+2018-11-26T18:06:47+00:00 CRITICAL Call to a member function get_price_html() on null in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\left-sidebar.php on line 45
+
+2018-11-26T18:06:50+00:00 CRITICAL Call to a member function get_price_html() on null in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\left-sidebar.php on line 45
+
+2018-11-26T18:17:13+00:00 CRITICAL Call to a member function get_price_html() on null in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\left-sidebar.php on line 45
+
+2018-11-26T18:17:19+00:00 CRITICAL Call to a member function get_price_html() on null in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\left-sidebar.php on line 45
+
+2018-11-26T18:19:43+00:00 CRITICAL Call to a member function get_price_html() on null in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\left-sidebar.php on line 46
+
+2018-11-26T18:20:40+00:00 CRITICAL Call to a member function get_price_html() on null in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\left-sidebar.php on line 46
+
+2018-11-26T18:20:43+00:00 CRITICAL Call to a member function get_price_html() on null in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\left-sidebar.php on line 46
+

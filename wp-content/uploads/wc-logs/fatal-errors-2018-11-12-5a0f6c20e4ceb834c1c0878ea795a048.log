@@ -1,0 +1,24 @@
+2018-11-12T13:11:51+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\header.php on line 99
+
+2018-11-12T13:50:34+00:00 CRITICAL Call to undefined function get_the_category_link() in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\header.php on line 93
+
+2018-11-12T13:50:40+00:00 CRITICAL Call to undefined function get_the_category_link() in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\header.php on line 93
+
+2018-11-12T13:51:21+00:00 CRITICAL Call to undefined method WP_Term::get_category_link() in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\header.php on line 93
+
+2018-11-12T13:51:24+00:00 CRITICAL Call to undefined method WP_Term::get_category_link() in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\header.php on line 93
+
+2018-11-12T13:51:25+00:00 CRITICAL Call to undefined method WP_Term::get_category_link() in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\header.php on line 93
+
+2018-11-12T13:51:41+00:00 CRITICAL Call to undefined method WP_Term::category_link() in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\header.php on line 93
+
+2018-11-12T13:57:28+00:00 CRITICAL Call to undefined method WP_Term::get_category_link() in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\header.php on line 92
+
+2018-11-12T14:01:04+00:00 CRITICAL Call to undefined method WP_Term::get_category_link() in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\header.php on line 93
+
+2018-11-12T14:01:12+00:00 CRITICAL Call to undefined method WP_Term::get_category_link() in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\header.php on line 93
+
+2018-11-12T14:04:37+00:00 CRITICAL Call to undefined method WP_Term::get_permalink() in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\header.php on line 92
+
+2018-11-12T14:07:01+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\header.php on line 96
+

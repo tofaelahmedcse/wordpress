@@ -1,0 +1,46 @@
+2018-11-27T03:53:22+00:00 CRITICAL Call to undefined function get_post_thumbnail_url() in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\left-sidebar.php on line 263
+
+2018-11-27T03:53:51+00:00 CRITICAL Call to undefined function get_post_thumbnail_url() in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\left-sidebar.php on line 263
+
+2018-11-27T03:55:39+00:00 CRITICAL Call to undefined function get_post_thumbnail_url() in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\left-sidebar.php on line 263
+
+2018-11-27T03:56:24+00:00 CRITICAL Call to undefined function get_post_thumbnail_url() in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\left-sidebar.php on line 253
+
+2018-11-27T03:57:54+00:00 CRITICAL Call to undefined function get_post_thumbnail_url() in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\left-sidebar.php on line 155
+
+2018-11-27T05:21:10+00:00 CRITICAL Call to undefined function get_attributes_link() in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\sidebar.php on line 59
+
+2018-11-27T05:23:48+00:00 CRITICAL Call to undefined function get_attributes_link() in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\sidebar.php on line 60
+
+2018-11-27T05:24:01+00:00 CRITICAL Call to undefined function get_attributes_link() in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\sidebar.php on line 60
+
+2018-11-27T05:26:17+00:00 CRITICAL Call to undefined function get_attributes_link() in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\sidebar.php on line 60
+
+2018-11-27T05:37:24+00:00 CRITICAL Call to undefined function get_attributes() in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\sidebar.php on line 51
+
+2018-11-27T05:45:32+00:00 CRITICAL Call to undefined function get_attribute() in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\sidebar.php on line 51
+
+2018-11-27T05:50:54+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\sidebar.php on line 52
+
+2018-11-27T05:54:22+00:00 CRITICAL Call to undefined function get_attributes_link() in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\sidebar.php on line 55
+
+2018-11-27T05:57:47+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\sidebar.php on line 55
+
+2018-11-27T05:59:18+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\sidebar.php on line 55
+
+2018-11-27T05:59:52+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\sidebar.php on line 55
+
+2018-11-27T06:02:24+00:00 CRITICAL syntax error, unexpected '{' in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\sidebar.php on line 51
+
+2018-11-27T06:07:11+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_variation_attributes() in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\sidebar.php on line 51
+
+2018-11-27T06:08:11+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\sidebar.php on line 55
+
+2018-11-27T06:08:47+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\sidebar.php on line 55
+
+2018-11-27T06:09:10+00:00 CRITICAL syntax error, unexpected ')' in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\sidebar.php on line 51
+
+2018-11-27T06:18:54+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\sidebar.php on line 55
+
+2018-11-27T06:22:12+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\sidebar.php on line 55
+

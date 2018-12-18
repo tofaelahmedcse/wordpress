@@ -1,0 +1,80 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: November 28, 2018 11:07 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.52
+WORDPRESS:	4.9.8
+PHP INFO:	5.6.35 | SAPI: apache2handler
+SERVER:		Apache/2.4.33 (Win64) PHP/5.6.35 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 69.75MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+FILTERED: [] 
+RESPONSE: Ran from C:/xampp/mysql/bin/mysqldump.exe 
+TABLES: total:29 | filtered:0 | create:29 
+SQL CREATED: 20181128_woocommerce_86d8e0c12d35cecc5269_20181128110707_database.sql 
+SQL FILE SIZE: 941.11KB (963700) 
+SQL FILE TIME: 2018-11-28 11:07:18 
+SQL RUNTIME: 0.33 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/wamp64/www/Works/2018/Oct/woocommerce 
+ARCHIVE FILE: 20181128_woocommerce_86d8e0c12d35cecc5269_20181128110707_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	66.55MB 
+STATS:	Dirs 482 | Files 3,859 
+SQL ADDED: 20181128_woocommerce_86d8e0c12d35cecc5269_20181128110707_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4341
+    [filename] => C:\wamp64\www\Works\2018\Oct\woocommerce\wp-snapshots\tmp\20181128_woocommerce_86d8e0c12d35cecc5269_20181128110707_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 24.55MB 
+ARCHIVE RUNTIME: 44.33 sec. 
+MEMORY STACK: 71.5MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preparing for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [C:/wamp64/www/Works/2018/Oct/woocommerce/wp-snapshots/tmp/20181128_woocommerce_86d8e0c12d35cecc5269_20181128110707_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 941.11KB 
+Installer File: 514.21KB 
+Archive File: 24.55MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 53.36 sec.
+PEAK PHP MEMORY USED: 75MB
+DONE PROCESSING => 20181128_woocommerce November 28, 2018 11:08 am
+ 

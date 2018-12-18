@@ -1,0 +1,30 @@
+2018-11-29T05:37:43+00:00 CRITICAL Call to a member function is_on_sale() on null in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\search.php on line 1257
+
+2018-11-29T05:38:45+00:00 CRITICAL Call to a member function is_on_sale() on null in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\search.php on line 1257
+
+2018-11-29T05:38:50+00:00 CRITICAL Call to a member function is_on_sale() on null in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\search.php on line 1257
+
+2018-11-29T05:42:04+00:00 CRITICAL Call to a member function is_on_sale() on null in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\search.php on line 1257
+
+2018-11-29T05:42:59+00:00 CRITICAL Call to a member function is_on_sale() on null in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\search.php on line 1257
+
+2018-11-29T11:47:03+00:00 CRITICAL syntax error, unexpected '<' in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\functions.php on line 431
+
+2018-11-29T11:47:34+00:00 CRITICAL syntax error, unexpected '<' in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\functions.php on line 431
+
+2018-11-29T11:47:39+00:00 CRITICAL syntax error, unexpected '<' in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\functions.php on line 431
+
+2018-11-29T13:23:56+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\functions.php on line 470
+
+2018-11-29T13:24:29+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\functions.php on line 470
+
+2018-11-29T13:25:06+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\functions.php on line 470
+
+2018-11-29T13:25:56+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\functions.php on line 470
+
+2018-11-29T14:09:39+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\functions.php on line 484
+
+2018-11-29T18:14:48+00:00 CRITICAL syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\functions.php on line 462
+
+2018-11-29T18:17:42+00:00 CRITICAL Call to a member function is_on_sale() on null in C:\wamp64\www\Works\2018\Oct\woocommerce\wp-content\themes\flipmart\search.php on line 56
+
